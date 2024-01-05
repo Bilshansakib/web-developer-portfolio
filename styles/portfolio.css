@@ -75,3 +75,22 @@ nav li {
     font-style: normal;
     margin: 5px;
 }
+/* main section style*/
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about {
+    padding: 130px;
+    border-radius: 100px;
+    background: #FFF8F3;
+    margin: 130px 0;
+}
+.about-info-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+
+    
+}
